@@ -35,6 +35,8 @@ This project analyzes bank loan performance using SQL and Power BI. It tracks ke
 This project was inspired by [Data Tutorials’ Power BI Loan Analysis Guide](https://www.youtube.com/watch?v=GMYgPg6eKP8). Full credit to their team for the walkthrough structure and raw data guidance.
 
 ## Files
-- `BankLoan.pbix` – Power BI dashboard
-- `BankLoan.sql` – SQL queries used to calculate KPIs
-- `KPIProblemStatement.docx` – Project goals and metric definitions
+
+- [BankLoan.pbix](https://github.com/AnuA1995/Bank-Loan-Analysis-project-using-Power-BI-and-SQL/blob/main/BankLoan.pbix) – Power BI dashboard
+- [BankLoan.sql](https://github.com/AnuA1995/Bank-Loan-Analysis-project-using-Power-BI-and-SQL/blob/main/BankLoan.sql) – SQL queries used to calculate KPIs
+- [KPIProblemStatement.docx](https://github.com/AnuA1995/Bank-Loan-Analysis-project-using-Power-BI-and-SQL/blob/main/KPIProblemStatement.docx) – Project goals and metric definitions
+
